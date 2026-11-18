@@ -16,7 +16,6 @@ String greetingFor(int hour) {
     return 'Good evening';
   }
 }
-}
 
 void main() {
   runApp(const HelloApp());
